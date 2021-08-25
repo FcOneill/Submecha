@@ -25,6 +25,7 @@ enemies to hide behind rocks.
 ![Submecha Title screen](https://user-images.githubusercontent.com/62139085/130854465-360e6239-c32c-4834-b911-7089315df20e.png)
 ![Submecha Controls](https://user-images.githubusercontent.com/62139085/130854872-7a92139d-0616-43ea-935f-01834ac32568.png)
 ![Submecha1](https://user-images.githubusercontent.com/62139085/130855089-8bc020d2-119e-40ae-9c8c-dacd293a32ef.png)
-![Submecha3](https://user-images.githubusercontent.com/62139085/130855322-7ee78ebc-3085-41fd-b01c-f458f9332cb7.png)
+![Submecha2](https://user-images.githubusercontent.com/62139085/130855322-7ee78ebc-3085-41fd-b01c-f458f9332cb7.png)
+![Submecha3](https://user-images.githubusercontent.com/62139085/130855618-b7546fe8-cc9c-49cd-9f76-ab58645da0f4.png)
 
 
